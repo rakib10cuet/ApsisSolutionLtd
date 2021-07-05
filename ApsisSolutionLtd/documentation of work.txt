@@ -1,0 +1,18 @@
+1)livewire composer
+2) jetstream composer use for authentication 
+
+
+
+ID/Password:
+	Admin:
+	id:admin@gmail.com
+	pass: Pass12345678!
+
+	Writer:
+	id:writer@gmail.com
+	pass: Pass1234!
+	
+	Viewer:
+	id:viewer@gmail.com
+	pass:Pass1234
+ 
