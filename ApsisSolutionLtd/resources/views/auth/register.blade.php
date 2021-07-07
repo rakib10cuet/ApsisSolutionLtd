@@ -42,12 +42,14 @@
                                     <fieldset class="wrap-input">
                                         <label class="col-md-4 control-label">User Type*</label>
                                         <div class="custom-select" style="border: 7px solid #e6e6e6;margin-top: 41px;">
-                                            <select class="form-control input-md" name="uType" required>
-                                                <option value="">User Type:</option>
-                                                <option value="1">Admin</option>
-                                                <option value="2">Writer</option>
-                                                <option value="3">Viewer</option>
-                                            </select>
+                                            <label>
+                                                <select class="form-control input-md" name="uType" required>
+                                                    <option value="">User Type:</option>
+                                                    <option value="1">Admin</option>
+                                                    <option value="2">Writer</option>
+                                                    <option value="3">Viewer</option>
+                                                </select>
+                                             </label>
                                         </div>
                                     </fieldset>     {{--User Type--}}
                                     <fieldset class="wrap-title">
